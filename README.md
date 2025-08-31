@@ -47,5 +47,12 @@ IncomeGroup = SWITCH(
 - **Power BI** for dashboard development  
 - **Microsoft Excel** for data preparation and processing  
 
+## 📸 Dashboard Preview
+
+### Customer Report
+<img src="report_assets/customer_dashboard_page_1.png" alt="Customer Dashboard" width="500"/>
+
+### Transaction Report
+<img src="report_assets/transaction_dashboard_page_1.png" alt="Transaction Dashboard" width="500"/>
 
 
